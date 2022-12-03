@@ -4,7 +4,7 @@ on:
   create:
   push:
   schedule: # min hour day week year
-    - cron: "0 0 * * *"
+    - cron: "0 0,8,16 * * *"
   workflow_dispatch:
 
 jobs:

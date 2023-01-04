@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=jnan806&show_icons=true&theme=radical&hide_border=true&count_private=true" height="200" width="490"/>
   <img src="https://raw.githubusercontent.com/jnan806/jnan806/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="200" width="330"/>
 </div>
 
-
-
 ---
+-->
 
 <!--
 ### Quick Emoji
